@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 5eed18bc3bf3bc94fb497e0bd07a451f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8273461516443836916
+    second: Multi_0
+  - first:
+      213: -2270498792362777669
+    second: Multi_1
+  - first:
+      213: 3706857837386056624
+    second: Multi_2
+  - first:
+      213: 5628645181984639376
+    second: Multi_3
+  - first:
+      213: 698374768944492799
+    second: Multi_4
+  - first:
+      213: -534418109170383055
+    second: Multi_5
+  - first:
+      213: -2559391679947742551
+    second: Multi_6
+  - first:
+      213: -5490970637510164725
+    second: Multi_7
+  - first:
+      213: -5363828794453611359
+    second: Multi_8
+  - first:
+      213: -1808196864317443170
+    second: Multi_9
+  - first:
+      213: 2425421853684212294
+    second: Multi_10
+  - first:
+      213: -607162580162536068
+    second: Multi_11
+  - first:
+      213: -369552273449763685
+    second: Multi_12
+  - first:
+      213: -5465552446771355787
+    second: Multi_13
+  - first:
+      213: 536594217447869063
+    second: Multi_14
+  - first:
+      213: 7048632287486021560
+    second: Multi_15
+  - first:
+      213: -5350275534695815367
+    second: Multi_16
+  - first:
+      213: 6334269510236025941
+    second: Multi_17
+  - first:
+      213: 2885061215978143939
+    second: Multi_18
+  - first:
+      213: -6428328881712914548
+    second: Multi_19
+  - first:
+      213: -688141278477861111
+    second: Multi_20
+  - first:
+      213: 5765573737983573402
+    second: Multi_21
+  - first:
+      213: 8465194683063492980
+    second: Multi_22
+  - first:
+      213: 6379588414689900696
+    second: Multi_23
+  - first:
+      213: -1329724540841125859
+    second: Multi_24
+  - first:
+      213: -2595714870160162798
+    second: Multi_25
+  - first:
+      213: -6838012035090898072
+    second: Multi_26
+  - first:
+      213: -5032449042992373648
+    second: Multi_27
+  - first:
+      213: -1363719761141984083
+    second: Multi_28
+  - first:
+      213: -2310291753888962
+    second: Multi_29
+  - first:
+      213: 2979350342396103229
+    second: Multi_30
+  - first:
+      213: -4952158419274022603
+    second: Multi_31
+  - first:
+      213: 5126511668142276918
+    second: Multi_32
+  - first:
+      213: -8118396312527730111
+    second: Multi_33
+  - first:
+      213: -6369065352984337011
+    second: Multi_34
+  - first:
+      213: -1156742743539447708
+    second: Multi_35
+  - first:
+      213: -7760395003109180350
+    second: Multi_36
+  - first:
+      213: 910048026122624510
+    second: Multi_37
+  - first:
+      213: -5057582557137559880
+    second: Multi_38
+  - first:
+      213: -8102116701362816013
+    second: Multi_39
+  - first:
+      213: -1188542986332064489
+    second: Multi_40
+  - first:
+      213: -3790905169219607313
+    second: Multi_41
+  - first:
+      213: 953829328689031806
+    second: Multi_42
+  - first:
+      213: -4553821240388505202
+    second: Multi_43
+  - first:
+      213: -4168451594059871568
+    second: Multi_44
+  - first:
+      213: -7133403473697474341
+    second: Multi_45
+  - first:
+      213: 3338432566321357489
+    second: Multi_46
+  - first:
+      213: 2880658887824073745
+    second: Multi_47
+  - first:
+      213: -3183590501886453155
+    second: Multi_48
+  - first:
+      213: -1352101512501320561
+    second: Multi_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 132
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Multi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 220
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e1081e592ce2d80800000000000000
+      internalID: -8273461516443836916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multi_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 220
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb36342c0619d70e0800000000000000
+      internalID: -2270498792362777669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multi_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 220
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3c4463097617330800000000000000
+      internalID: 3706857837386056624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multi_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 220
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09988ee98f6fc1e40800000000000000
+      internalID: 5628645181984639376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multi_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 220
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff03807f62021b900800000000000000
+      internalID: 698374768944492799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 5b83bc770bffa2f4fb8e5666f53293b6, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

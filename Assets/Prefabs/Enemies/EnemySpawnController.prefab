@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2777471752231998153
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2777471752231998155}
+  - component: {fileID: 2777471752231998152}
+  m_Layer: 0
+  m_Name: EnemySpawnController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2777471752231998155
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2777471752231998153}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2777471752231998152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2777471752231998153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 571154dea9144fa47be3cae9ae1de96f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  saw: {fileID: 4119660798289590537, guid: c8a16f381c743ed4399fc06f8c74c200, type: 3}
+  bullet: {fileID: 1037323920236086726, guid: 30b5d3f80ab586c45a6e3a270caae597, type: 3}
+  incind: {fileID: 7317145942566394506, guid: e7d8b13537cc118418d304ced116563c, type: 3}
+  bounceGun: {fileID: 9097314359151403345, guid: befa48b1c3d0ed243840b51d0532dd74, type: 3}
+  brick: {fileID: 2534097024903707396, guid: 478a90afeb2bd6e48a10868caf7e6711, type: 3}
+  missile: {fileID: 1720591364691832482, guid: 592f61d0cfecfc14fb9220ce85a0128f, type: 3}
+  powerupBox: {fileID: 124293090461693505, guid: d95b42e2b06243746b012eb8319088d1, type: 3}
+  initSpawnTime: 6
+  SpawnTimeInc: 0.95
+  wall:
+    serializedVersion: 2
+    m_Bits: 256
+  warning: {fileID: 1146498705367197845, guid: 353bb0c439f17a5419120b82c2083148, type: 3}
+  randomX: 26.5
+  randomY: 19.5
+  powerupTime: 15
